@@ -4,7 +4,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-green)](https://www.minecraft.net/)
 [![Java](https://img.shields.io/badge/Java-17-orange)](https://adoptium.net/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Spigot](https://img.shields.io/badge/Platform-Spigot%20/%20Paper-red)](https://www.spigotmc.org/)
+[![Spigot](https://img.shields.io/badge/Platform-Spigot%20/%20Paper/%20Paper-red)](https://www.spigotmc.org/)
 
 **SeePass** — это легкий, но эффективный плагин для серверов Minecraft, предназначенный для защиты от простых ботов и автоматического входа путем добавления этапа проверки для новых или всех игроков. Игрок должен доказать, что он человек, выполнив простое действие в игре.
 
