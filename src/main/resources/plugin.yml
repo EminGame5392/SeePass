@@ -1,0 +1,16 @@
+name: SeePass
+version: '${project.version}'
+main: ru.gdev.seepass.SeePass
+api-version: '1.16'
+authors: [ GDev ]
+website: https://gdev.seemine.su
+commands:
+  seepass:
+    description: Управление проходками на сервер.
+    usage: |
+      /seepass give [ник] - Выдать проходку.
+      /seepass take [ник|all] - Забрать проходку.
+    permission: seepass.admin
+    aliases:
+      - spass
+      - seep
